@@ -1,0 +1,33 @@
+{
+  "name": "deep-validatorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyiu/deep-validatorjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyiu/deep-validatorjs/issues"
+  },
+  "homepage": "https://github.com/keyiu/deep-validatorjs#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "moment": "^2.22.0",
+    "validator": "^9.4.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "mocha": "^5.0.5"
+  }
+}
